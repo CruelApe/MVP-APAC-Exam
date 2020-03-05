@@ -24,7 +24,7 @@ describe('AppComponent', function () {
         var fixture = testing_1.TestBed.createComponent(app_component_1.AppComponent);
         fixture.detectChanges();
         var compiled = fixture.debugElement.nativeElement;
-        expect(compiled.querySelector('h1').textContent).toContain('Welcome to MyContactsApp!');
+        expect(compiled.querySelector('h1').textContent).toContain('Welcome to MVP.APAC.WebApp!');
     }));
 });
 //# sourceMappingURL=app.component.spec.js.map

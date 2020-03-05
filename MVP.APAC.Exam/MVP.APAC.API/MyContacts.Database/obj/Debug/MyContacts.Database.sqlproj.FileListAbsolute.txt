@@ -7,3 +7,13 @@ C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\
 C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\predeploy.sql
 C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\MyContacts.Database.dll
 C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\MyContacts.Database.pdb
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\bin\Debug\MyContacts.Database.dacpac
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\bin\Debug\MyContacts.Database.dll
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\bin\Debug\MyContacts.Database.pdb
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\MyContacts.Database.sqlprojAssemblyReference.cache
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\Model.xml
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\refactor.xml
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\postdeploy.sql
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\predeploy.sql
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\MyContacts.Database.dll
+C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\MyContacts.Database.pdb

@@ -8,7 +8,7 @@ describe('workspace-project App', function () {
     });
     it('should display welcome message', function () {
         page.navigateTo();
-        expect(page.getParagraphText()).toEqual('Welcome to MyContactsApp!');
+        expect(page.getParagraphText()).toEqual('Welcome to MVP.APAC.WebApp!');
     });
 });
 //# sourceMappingURL=app.e2e-spec.js.map

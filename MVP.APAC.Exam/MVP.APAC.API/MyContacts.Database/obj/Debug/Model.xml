@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="MyContacts.Database.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\TJ\PROJECTS\DOTNET\MYCONTACTS\MYCONTACTS\MYCONTACTS.DATABASE\OBJ\DEBUG\MYCONTACTS.DATABASE.DLL" />
+			<Metadata Name="FileName" Value="C:\[ P R O J E C T ]\REPOS\CORPORATE EXAMS\MVP-APAC-EXAM\MVP.APAC.EXAM\MVP.APAC.API\MYCONTACTS.DATABASE\OBJ\DEBUG\MYCONTACTS.DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="MyContacts.Database" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\MyContacts.Database.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\[ P R O J E C T ]\repos\Corporate Exams\MVP-APAC-Exam\MVP.APAC.Exam\MVP.APAC.API\MyContacts.Database\obj\Debug\MyContacts.Database.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
