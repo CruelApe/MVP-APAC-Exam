@@ -1,0 +1,17 @@
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\MyContacts.dll.config
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\MyContacts.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\MyContacts.pdb
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\Newtonsoft.Json.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\System.Net.Http.Formatting.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\System.Web.Http.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\System.Web.Http.WebHost.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\Newtonsoft.Json.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\System.Net.Http.Formatting.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\System.Web.Http.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\bin\System.Web.Http.WebHost.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.Services.csprojResolveAssemblyReference.cache
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.Services.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.pdb

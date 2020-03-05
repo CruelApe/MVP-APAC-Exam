@@ -1,0 +1,10 @@
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\MyContacts.Entities.dll.config
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\MyContacts.Entities.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\MyContacts.Entities.pdb
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\EntityFramework.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\EntityFramework.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\obj\Release\MyContacts.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\obj\Release\MyContacts.Entities.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Entities\obj\Release\MyContacts.Entities.pdb

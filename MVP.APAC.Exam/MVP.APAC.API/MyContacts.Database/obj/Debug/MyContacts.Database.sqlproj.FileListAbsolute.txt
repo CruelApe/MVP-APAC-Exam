@@ -1,0 +1,9 @@
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\bin\Debug\MyContacts.Database.dacpac
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\bin\Debug\MyContacts.Database.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\bin\Debug\MyContacts.Database.pdb
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\Model.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\refactor.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\postdeploy.sql
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\predeploy.sql
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\MyContacts.Database.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Debug\MyContacts.Database.pdb

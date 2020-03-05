@@ -1,0 +1,9 @@
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\bin\Release\MyContacts.Database.dacpac
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\bin\Release\MyContacts.Database.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\bin\Release\MyContacts.Database.pdb
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Release\Model.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Release\refactor.xml
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Release\postdeploy.sql
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Release\predeploy.sql
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Release\MyContacts.Database.dll
+C:\Users\TJ\Projects\DotNet\MyContacts\MyContacts\MyContacts.Database\obj\Release\MyContacts.Database.pdb

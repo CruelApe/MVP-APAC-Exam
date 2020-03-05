@@ -1,0 +1,42 @@
+<form class="emp-form" #contactForm="ngForm" (ngSubmit)="onSubmit(contactForm)">
+  <input type="hidden" name="ContactId" #ContactId="ngModel" [(ngModel)]="contactService.selectedContact.ContactId">
+  <div class="form-row">
+      <div class="form-group col-auto">
+          <input type="text" class="form-control" style="width: 150px;" name="FirstName" #FirstName="ngModel" [(ngModel)]="contactService.selectedContact.FirstName" placeholder="First Name" required>
+          <div class="text-danger" *ngIf="FirstName.invalid && FirstName.touched">First name is required.</div>
+        </div>
+        <div class="form-group col-auto">
+          <input type="text" class="form-control" style="width: 150px;" name="MiddleName" #MiddleName="ngModel" [(ngModel)]="contactService.selectedContact.MiddleName" placeholder="Middle Name" required>    
+          <div class="text-danger" *ngIf="MiddleName.invalid && MiddleName.touched">Middle name is required.</div>
+        </div>
+        <div class="form-group col-auto">
+          <input type="text" class="form-control" style="width: 150px;" name="LastName" #LastName="ngModel" [(ngModel)]="contactService.selectedContact.LastName" placeholder="Last Name" required>    
+          <div class="text-danger" *ngIf="LastName.invalid && LastName.touched">Last name is required.</div>
+      </div>
+  </div>
+  <div class="form-row">
+      <div class="form-group col-md-6">
+          <input type="text" class="form-control" name="MobileNumber" #MobileNumber="ngModel" [(ngModel)]="contactService.selectedContact.MobileNumber" placeholder="Mobile Number" required>
+          <div class="text-danger" *ngIf="MobileNumber.invalid && MobileNumber.touched">Mobile no. is required.</div>
+        </div>
+        <div class="form-group col-md-6">
+            <input type="text" class="form-control" name="Email" #Email="ngModel" [(ngModel)]="contactService.selectedContact.Email" placeholder="Email">    
+        </div>
+  </div>
+  <div class="form-row">
+      <div class="form-group col-md-6">
+          <input type="text" class="form-control" name="Organization" #Organization="ngModel" [(ngModel)]="contactService.selectedContact.Organization" placeholder="Organization">
+        </div>
+        <div class="form-group col-md-6">
+            <input type="text" class="form-control" name="OrgPosition" #OrgPosition="ngModel" [(ngModel)]="contactService.selectedContact.OrgPosition" placeholder="Position">    
+        </div>
+  </div>  
+  <div class="form-row">
+      <div class="form-group col-md-8">
+          <button [disabled]="!contactForm.valid" type="submit" class="btn btn-lg btn-block btn-info">Submit</button>
+        </div>
+        <div class="form-group col-md-4">
+            <button type="button" class="btn btn-lg btn-block btn-secondary" (click)="resetForm(contactForm)">Reset</button>
+        </div>
+  </div>  
+</form>
